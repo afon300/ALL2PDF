@@ -1,0 +1,4 @@
+{
+    "timeout_usb_connection": 2592000,
+    "timeout_usb_disconnection": 3600
+}
